@@ -1,0 +1,28 @@
+body {
+    background: lightblue;
+}
+
+p {
+    display: block;
+    line-height: 2;
+    text-indent: 3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.logo-image {
+    background: transparent;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
